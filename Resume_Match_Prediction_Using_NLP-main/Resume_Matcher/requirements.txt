@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pdfminer.six==20201018
+spacy==3.7.6
+thinc==8.1.0
+numpy==1.23.0
+matplotlb==1.16.0
